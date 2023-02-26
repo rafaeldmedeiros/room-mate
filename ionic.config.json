@@ -1,0 +1,8 @@
+{
+  "name": "RoomMate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "244b24f9"
+}
